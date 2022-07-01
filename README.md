@@ -8,6 +8,5 @@ The software used are MPLAB and Proteus for Simulaton.
 
 
 ## Authors
-* Wubshet Zeleke [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (https://github.com/wubeZ))] || [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (www.linkedin.com/in/wubshet-zeleke-1a6aa71a8))]|| [Email](wubezeleke@gmail.com)
-* Tesfamichael Asfaw [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (https://github.com/tesfaymebre)) || [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (www.linkedin.com/in/tesfamichael-asfaw))] || [Email](tesfaymebre@gmail.com)
-
+* [Github](https://github.com/wubeZ) || [LinkedIn](www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
+* [Github](https://github.com/tesfaymebre) || [LinkedIn](www.linkedin.com/in/tesfamichael-asfaw)
