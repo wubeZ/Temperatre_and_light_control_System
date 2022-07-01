@@ -8,5 +8,5 @@ The software used are MPLAB and Proteus for Simulaton.
 
 
 ## Authors
-* Wubshet Zeleke [Github](https://github.com/wubeZ) || [LinkedIn](www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
-* Tesfamichael Asfaw [Github](https://github.com/tesfaymebre) || [LinkedIn](www.linkedin.com/in/tesfamichael-asfaw)
+* Wubshet Zeleke [Github](https://github.com/wubeZ) || [LinkedIn](https://www.linkedin.com/in/wubshet-zeleke-1a6aa71a8)
+* Tesfamichael Asfaw [Github](https://github.com/tesfaymebre) || [LinkedIn](https://www.linkedin.com/in/tesfamichael-asfaw)
